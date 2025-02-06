@@ -1,0 +1,12 @@
+streamlit
+pandas
+spacy
+PyPDF2
+joblib
+matplotlib
+seaborn
+wordcloud
+python-docx
+scikit-learn
+flask 
+numpy
